@@ -1,0 +1,24 @@
+{
+  "name": "polaris-first-npm",
+  "version": "1.0.0",
+  "description": "\"this is my first npm package\":",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamhacker123/polaris-first-npm.git"
+  },
+  "keywords": [
+    "polaris",
+    "polaris-npm",
+    "polaris-npm-first"
+  ],
+  "author": "dreamhackjer123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamhacker123/polaris-first-npm/issues"
+  },
+  "homepage": "https://github.com/dreamhacker123/polaris-first-npm#readme"
+}
